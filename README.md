@@ -22,6 +22,9 @@ The rudamentary paper review process will be as follows:
 -   if further revision is needed the authors address the concerns
 -   if the paper is accepted it can be published
 
+### Functions
+TODO
+
 ## Selected technologies
 
 The review process will be entirely implemented with the help of smart contracts. The smart contracts will be written in Solidity.
